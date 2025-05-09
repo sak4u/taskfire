@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "490161755373",
+    "project_id": "tp6-mohamed",
+    "storage_bucket": "tp6-mohamed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490161755373:android:f74c2b161f0b9795fa68e4",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV9auZbncWpozoF3o6eaiYm6fc59CtOvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490161755373:android:6c2f5f6e82cddfacfa68e4",
+        "android_client_info": {
+          "package_name": "com.example.firebasecom.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV9auZbncWpozoF3o6eaiYm6fc59CtOvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490161755373:android:f463821ee2cd1777fa68e4",
+        "android_client_info": {
+          "package_name": "com.uillover.taskfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV9auZbncWpozoF3o6eaiYm6fc59CtOvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

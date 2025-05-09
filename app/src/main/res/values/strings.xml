@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskFire</string>
+    <string name="title_activity_main">Mes Tâches</string>
+    <string name="title_activity_add_task">Ajouter une tâche</string>
+    <string name="title_activity_task_detail">Détails de la tâche</string>
+    <string name="title_activity_profile">Profil</string>
+    <string name="empty_state">Aucune tâche à afficher</string>
+</resources>
